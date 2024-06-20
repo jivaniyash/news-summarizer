@@ -14,7 +14,7 @@ description = '''
 article ='''
 <body>
 <center>
-  <p>Source Code can be found on <a href=""> GitHub.</p>
+  <p>Source Code can be found on <a href="https://github.com/jivaniyash/news-summarizer"> GitHub.</p>
 </center>
 </body>
 '''
